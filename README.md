@@ -1,3 +1,7 @@
+#NAV install framework NAVIKT Aksel
+
+npm install @navikt/ds-react @navikt/ds-css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
