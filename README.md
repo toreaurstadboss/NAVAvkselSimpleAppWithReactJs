@@ -1,4 +1,14 @@
-#NAV install framework NAVIKT Aksel
+# Demo app - NAV IKT Aksel framework with React.Js
+
+This is just a simple application using the NAV IKT Aksel framework together with React.Js.
+
+For more information about Aksel framework, visit :
+
+https://aksel.nav.no/
+
+This framework also got a lot of additional nice features, such as good Universell Utforming / WCAG support.
+
+# NAV install framework NAVIKT Aksel
 
 npm install @navikt/ds-react @navikt/ds-css
 
