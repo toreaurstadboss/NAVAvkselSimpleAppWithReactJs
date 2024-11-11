@@ -4,11 +4,15 @@ import "@navikt/ds-css";
 
 import './App.css';
 import ProgressBarDemo from './Progressbar';
+import FormDemo from "./FormDemo";
 
 function App() {
 
   return (
-    <ProgressBarDemo />   //demo showing a progressbar using NAV IKT Aksel framework
+    <div>
+     <ProgressBarDemo /> 
+      {/* <FormDemo /> */}
+    </div>
   );
 
 }
